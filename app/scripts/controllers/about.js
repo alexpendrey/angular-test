@@ -14,4 +14,5 @@ angular.module('mytodoApp')
       'AngularJS',
       'Karma'
     ];
+    $scope.item1 =  "alex";
   });
